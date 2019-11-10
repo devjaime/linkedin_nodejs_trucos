@@ -1,6 +1,6 @@
 # Node JS Trucos y consejos: Curso de Linkedin
 
-![Certificado ](https://github.com/devjaime/linkedin_nodejs_avanzado/blob/master/certificado/certificado.png)
+![Certificado ](https://github.com/devjaime/linkedin_nodejs_trucos/blob/master/certificado/certificado.png)
 ## Contenidos
 
 ### Configuración
